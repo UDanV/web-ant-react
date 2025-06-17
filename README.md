@@ -1,3 +1,12 @@
+# Available routes:
+
+`/characters` - список всех персонажей;
+`/character/${id}` - информация о выбранном персонаже;
+`/locations` - список всех локаций;
+`/location/${id}` - информация о выбранной локации;
+`/episodes` - список всех эпизодов;
+`/episode/${id}` - информация о выбранном эпизоде
+
 # React + TypeScript + Vite
 
 This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
